@@ -13,6 +13,8 @@ I learnt to equip agents with tools that gives the agent resources and tools to 
 HOW TO USE THIS??
 There is a simple python notebook that can be run on any IDE after installing the required libraries.
 The results are there in the files folders.Name - flights.md
+Result in flights.md file
+<img width="1288" height="351" alt="image" src="https://github.com/user-attachments/assets/732699dc-968a-4af3-961e-42e0bafa1a3d" />
 
 Note – There are some things that should be taken into consideration here
 1. The number of cycles(interactions) between the primary and the evaluator agent needs to be determined early on, so that you don’t use up your resources and the response time is minimal.
